@@ -1,0 +1,20 @@
+79,A Confession,Lev Tolstoi
+13,Crime and Punishment,Fyodor Dostoevsky
+59,Charlie and the Chocolate Factory,Roald Dahl
+25,The Cossacks,Lev Tolstoi
+19,From the Earth to The Moon,Jules Verne
+63,Bleak House,Charles Dickens
+2,Journey To The Center Of The Earth,Jules Verne
+71,Robinson Crusoe,Daniel Defoe
+12,Tom Sawyer Abroad, By Huck Finn,Mark Twain
+89,A Confession,Lev Tolstoi
+21,James and the Giant Peach,Roald Dahl
+92,The Cossacks,Lev Tolstoi
+61,Macbeth,William Shakespeare
+70,Les Contemplations,Victor Hugo
+26,Poor Folk,Fyodor Dostoevsky
+99,Les Miserables,Victor Hugo
+66,The Man Who Laughs,Victor Hugo
+56,The Innocents Abroad,Mark Twain
+51,Poor Folk,Fyodor Dostoevsky
+43,Tom Sawyer Abroad, By Huck Finn,Mark Twain
